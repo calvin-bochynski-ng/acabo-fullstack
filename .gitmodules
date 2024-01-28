@@ -1,3 +1,6 @@
 [submodule "hackathon-acabo-client"]
 	path = hackathon-acabo-client
 	url = https://github.com/calvin-bochynski-ng/hackathon-acabo-client
+[submodule "hackathon-acabo-api"]
+	path = hackathon-acabo-api
+	url = https://github.com/calvin-bochynski-ng/hackathon-acabo-api
